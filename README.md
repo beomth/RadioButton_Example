@@ -10,4 +10,4 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 <img src = "https://simpleicons.org/?q=java-Hi-#007396"/>
 
   
-<img alt="Python" src ="https://img.shields.io/badge/Java-white.svg?&style=for-the-badge&logo=java&logoColor=#007396"/>
+<img alt="Python" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
