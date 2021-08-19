@@ -4,7 +4,7 @@
 
 ## What is the RadioButton
 
-![image](https://user-images.githubusercontent.com/76798832/129898251-1034d92d-9a80-4098-8c26-31e4a39b81a6.png) 
+<img src = "https://user-images.githubusercontent.com/76798832/129898251-1034d92d-9a80-4098-8c26-31e4a39b81a6.png" width="400" height="400"/>
 
 - <img src = "https://img.shields.io/badge/RadioButton-%20-blue"/>
 - <img src = "https://img.shields.io/badge/RadioGroup-%20-blue"/>
