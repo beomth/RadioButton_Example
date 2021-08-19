@@ -9,10 +9,10 @@
 - <img src = "https://img.shields.io/badge/RadioButton-%20-blue"/>
 - <img src = "https://img.shields.io/badge/RadioGroup-%20-blue"/>
 - Simply use like 'check button'
-- If you click radiobutton, there could be a event
+- If you click radiobutton, there could be a event <br/>
 
-##If the Button clicked, there could toast <br/>
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/76798832/130123170-f31a60b8-890a-4565-9216-783ac90d92ba.gif)
+## If the Button clicked, there could toast <br/>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/76798832/130123170-f31a60b8-890a-4565-9216-783ac90d92ba.gif){:width="150px" height="150px"}
 
 
 
