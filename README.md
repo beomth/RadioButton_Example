@@ -12,14 +12,10 @@
 - If you click radiobutton, there could be a event <br/>
 
 ## If the Button clicked, there could toast <br/>
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/76798832/130123170-f31a60b8-890a-4565-9216-783ac90d92ba.gif){:width="150px" height="150px"}
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/76798832/130123170-f31a60b8-890a-4565-9216-783ac90d92ba.gif{:width="150px" height="150px"})
 
 
 
-<img src = "https://img.shields.io/badge/Java-<MESSAGE>-#007396"/>
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
-
-<img src = "https://img.shields.io/badge/facebook-yea-brightgreen"/>
 
   
 
