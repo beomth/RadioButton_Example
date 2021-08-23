@@ -9,7 +9,8 @@
 - <img src = "https://img.shields.io/badge/RadioButton-%20-blue"/>
 - <img src = "https://img.shields.io/badge/RadioGroup-%20-blue"/>
 - Simply use like 'check button'
-- If you click radiobutton, there could be a event <br/>
+- If you click radiobutton, there could be a event 
+- Only choose one! Unlike CheckBox(CheckBox able to choose one more)<br/>
 
 ## If the Button clicked, there could toast <br/>
 #### So easy Example!!
