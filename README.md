@@ -1,6 +1,8 @@
 # RadioButtonExample
 ## _This is very Simple Example of RadioButton_
-#### Also, this code is only java(including android method) <img src ="https://img.shields.io/badge/Java-yellow.svg?&style=flat&logo=java&logoColor=white"/>
+#### Also, this code is only java(including android method) <img src ="https://img.shields.io/badge/Java-yellow.svg?&style=flat&logo=java&logoColor=white"/><img src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=android&logoColor=white"/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeomth&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## What is the RadioButton??
 
